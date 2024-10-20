@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ramiz.takildar@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ramiz-takildar-797005110](www.linkedin.com/in/ramiz-takildar-797005110)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ramiz-devops/](https://www.linkedin.com/in/ramiz-devops/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
