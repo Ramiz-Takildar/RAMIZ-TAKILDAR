@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **Kubernetes and OpenShift with IBM**
 
+- 📝 I regularly write articles on [ramiz-blogs](https://hashnode.com/@ramiz313)
+
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting**
 
 - 📫 How to reach me **ramiz.takildar@gmail.com**
