@@ -26,51 +26,51 @@
 
 | Repo | About |
 |---|---|
-| 90DaysOfDevOps | 90DaysOfDevOps |
-| AI-BankApp-DevOps | End-to-end AI Powered DevOps project — Spring Boot banking app with Docker, CI/CD, Kubernetes, Helm, Terraform, Monitoring & GitOps & Integration of LLMs |
-| AWS-Biller | AWS Biller |
-| BashBlaze-7-Days-of-Bash-Scripting-Challenge | In this repository, the DevOps community can take on a thrilling and distinctive challenge. In just seven days, participants will undertake a journey to become experts in Bash scripting. with each day's assignment becoming progressively more complex. |
-| DevOps-Interview-Master-AI | DevOps-Interview-Master-AI |
-| GitHub-Actions-Zero-to-Hero | GitHub-Actions-Zero-to-Hero |
-| RAMIZ-TAKILDAR | - |
-| Springboot-BankApp | An End-To-End Banking Application built using SpringBoot and Deployed using DevOps practices. |
-| agentic-ai-for-devops | agentic-ai-for-devops |
-| argocd-demos | Demos of arogcd one shot video |
-| argocd-in-one-shot | ArgoCD In One Shot is your one stop solution to learn and implement ArgoCD from Zero to Hero in DevOps |
-| aws-zero-to-hero | Complete AWS course from cloud basics to advanced architecture |
-| ci-demo | ci-demo |
-| devops-portfolio-platform | - |
-| devops_daily_tracker | devops_daily_tracker |
-| django-todo-cicd | django-todo-cicd |
-| django-todo-cicd-1 | This repo is for Django todo app deployment as a Devops engineer via Jenkins |
-| docker-ai-poll-app | docker-ai-poll-app |
-| docker-zero-to-hero | docker-zero-to-hero |
-| git-demo-day2 | git-demo-day2 |
-| git-for-devops | This repository for understanding git concept for devops  |
-| git-zero-to-hero | Complete Git course from basics to advanced workflows |
-| github-actions-kubernetes-masterclass | This is a three tier app for DevOps |
-| k8_devops_daily_tracker | k8_devops_daily_tracker |
-| k8s-argocd-demo | k8s-argocd-demo |
-| kubernetes-session | - |
-| kubernetes-zero-to-hero | kubernetes-zero-to-hero |
-| kubestarter | This is a Repository to get you started with Kubernetes. |
-| linux-zero-to-hero | Complete Linux course from basics to system administration |
-| new_Portfolio | new_Portfolio |
-| portfolio | My portfolio build by Docker AI |
-| ramiz-takildar-infra | Terraform for Infra setup |
-| retail-store-sample-app | A Multi-tier Retail Sore Application to demonstrate Kubernetes To Production with EKS + Terraform & GitOps With ArgoCD & GitHub Actions |
-| shell_scripts | - |
-| simple-java-docker | simple-java-docker-app |
-| static_portfolio | static_portfolio |
-| terraform-professional-certification | terraform-professional-certification |
-| terraform-session | terraform-session |
-| terraform-zero-to-hero | Master Terraform in 7 days using this Zero to Hero course. |
-| terraform-zero-to-hero-aws | terraform-zero-to-hero-aws |
-| test-git | test git |
-| ultimate-devops-project-demo | This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment. |
-| webhook-demo | webhook-demo |
-| webhook-demo1 | webhook-demo1 |
-| zen-infra | zen-infra |
+| [90DaysOfDevOps](https://github.com/Ramiz-Takildar/90DaysOfDevOps) | 90DaysOfDevOps |
+| [AI-BankApp-DevOps](https://github.com/Ramiz-Takildar/AI-BankApp-DevOps) | End-to-end AI Powered DevOps project — Spring Boot banking app with Docker, CI/CD, Kubernetes, Helm, Terraform, Monitoring & GitOps & Integration of LLMs |
+| [AWS-Biller](https://github.com/Ramiz-Takildar/AWS-Biller) | AWS Biller |
+| [BashBlaze-7-Days-of-Bash-Scripting-Challenge](https://github.com/Ramiz-Takildar/BashBlaze-7-Days-of-Bash-Scripting-Challenge) | In this repository, the DevOps community can take on a thrilling and distinctive challenge. In just seven days, participants will undertake a journey to become experts in Bash scripting. with each day's assignment becoming progressively more complex. |
+| [DevOps-Interview-Master-AI](https://github.com/Ramiz-Takildar/DevOps-Interview-Master-AI) | DevOps-Interview-Master-AI |
+| [GitHub-Actions-Zero-to-Hero](https://github.com/Ramiz-Takildar/GitHub-Actions-Zero-to-Hero) | GitHub-Actions-Zero-to-Hero |
+| [RAMIZ-TAKILDAR](https://github.com/Ramiz-Takildar/RAMIZ-TAKILDAR) | - |
+| [Springboot-BankApp](https://github.com/Ramiz-Takildar/Springboot-BankApp) | An End-To-End Banking Application built using SpringBoot and Deployed using DevOps practices. |
+| [agentic-ai-for-devops](https://github.com/Ramiz-Takildar/agentic-ai-for-devops) | agentic-ai-for-devops |
+| [argocd-demos](https://github.com/Ramiz-Takildar/argocd-demos) | Demos of arogcd one shot video |
+| [argocd-in-one-shot](https://github.com/Ramiz-Takildar/argocd-in-one-shot) | ArgoCD In One Shot is your one stop solution to learn and implement ArgoCD from Zero to Hero in DevOps |
+| [aws-zero-to-hero](https://github.com/Ramiz-Takildar/aws-zero-to-hero) | Complete AWS course from cloud basics to advanced architecture |
+| [ci-demo](https://github.com/Ramiz-Takildar/ci-demo) | ci-demo |
+| [devops-portfolio-platform](https://github.com/Ramiz-Takildar/devops-portfolio-platform) | - |
+| [devops_daily_tracker](https://github.com/Ramiz-Takildar/devops_daily_tracker) | devops_daily_tracker |
+| [django-todo-cicd](https://github.com/Ramiz-Takildar/django-todo-cicd) | django-todo-cicd |
+| [django-todo-cicd-1](https://github.com/Ramiz-Takildar/django-todo-cicd-1) | This repo is for Django todo app deployment as a Devops engineer via Jenkins |
+| [docker-ai-poll-app](https://github.com/Ramiz-Takildar/docker-ai-poll-app) | docker-ai-poll-app |
+| [docker-zero-to-hero](https://github.com/Ramiz-Takildar/docker-zero-to-hero) | docker-zero-to-hero |
+| [git-demo-day2](https://github.com/Ramiz-Takildar/git-demo-day2) | git-demo-day2 |
+| [git-for-devops](https://github.com/Ramiz-Takildar/git-for-devops) | This repository for understanding git concept for devops  |
+| [git-zero-to-hero](https://github.com/Ramiz-Takildar/git-zero-to-hero) | Complete Git course from basics to advanced workflows |
+| [github-actions-kubernetes-masterclass](https://github.com/Ramiz-Takildar/github-actions-kubernetes-masterclass) | This is a three tier app for DevOps |
+| [k8_devops_daily_tracker](https://github.com/Ramiz-Takildar/k8_devops_daily_tracker) | k8_devops_daily_tracker |
+| [k8s-argocd-demo](https://github.com/Ramiz-Takildar/k8s-argocd-demo) | k8s-argocd-demo |
+| [kubernetes-session](https://github.com/Ramiz-Takildar/kubernetes-session) | - |
+| [kubernetes-zero-to-hero](https://github.com/Ramiz-Takildar/kubernetes-zero-to-hero) | kubernetes-zero-to-hero |
+| [kubestarter](https://github.com/Ramiz-Takildar/kubestarter) | This is a Repository to get you started with Kubernetes. |
+| [linux-zero-to-hero](https://github.com/Ramiz-Takildar/linux-zero-to-hero) | Complete Linux course from basics to system administration |
+| [new_Portfolio](https://github.com/Ramiz-Takildar/new_Portfolio) | new_Portfolio |
+| [portfolio](https://github.com/Ramiz-Takildar/portfolio) | My portfolio build by Docker AI |
+| [ramiz-takildar-infra](https://github.com/Ramiz-Takildar/ramiz-takildar-infra) | Terraform for Infra setup |
+| [retail-store-sample-app](https://github.com/Ramiz-Takildar/retail-store-sample-app) | A Multi-tier Retail Sore Application to demonstrate Kubernetes To Production with EKS + Terraform & GitOps With ArgoCD & GitHub Actions |
+| [shell_scripts](https://github.com/Ramiz-Takildar/shell_scripts) | - |
+| [simple-java-docker](https://github.com/Ramiz-Takildar/simple-java-docker) | simple-java-docker-app |
+| [static_portfolio](https://github.com/Ramiz-Takildar/static_portfolio) | static_portfolio |
+| [terraform-professional-certification](https://github.com/Ramiz-Takildar/terraform-professional-certification) | terraform-professional-certification |
+| [terraform-session](https://github.com/Ramiz-Takildar/terraform-session) | terraform-session |
+| [terraform-zero-to-hero](https://github.com/Ramiz-Takildar/terraform-zero-to-hero) | Master Terraform in 7 days using this Zero to Hero course. |
+| [terraform-zero-to-hero-aws](https://github.com/Ramiz-Takildar/terraform-zero-to-hero-aws) | terraform-zero-to-hero-aws |
+| [test-git](https://github.com/Ramiz-Takildar/test-git) | test git |
+| [ultimate-devops-project-demo](https://github.com/Ramiz-Takildar/ultimate-devops-project-demo) | This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment. |
+| [webhook-demo](https://github.com/Ramiz-Takildar/webhook-demo) | webhook-demo |
+| [webhook-demo1](https://github.com/Ramiz-Takildar/webhook-demo1) | webhook-demo1 |
+| [zen-infra](https://github.com/Ramiz-Takildar/zen-infra) | zen-infra |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramiz-takildar&show_icons=true&locale=en&layout=compact" alt="ramiz-takildar" /></p>
 
